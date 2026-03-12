@@ -12,7 +12,7 @@ Turn your Strava and Garmin activities into GitHub-style contribution graphs. Au
 
 **No coding required.**  
 
-View the Interactive [Activity Dashboard](https://krishnaindani.github.io/workout-stats/).  
+View the Interactive [Activity Dashboard](https://krishnaindani.github.io/git-sweaty/).  
 Once setup is complete, this dashboard link will automatically update to your own GitHub Pages URL.
 
 
@@ -131,7 +131,7 @@ Use this if you do not want to run `bootstrap.sh` or `setup_auth.py`.
 5. In your fork, add these repository variables:
    - `Settings` -> `Secrets and variables` -> `Actions` -> `Variables`
    - `DASHBOARD_SOURCE`: `strava` or `garmin`
-   - `DASHBOARD_REPO`: your fork slug (example: `yourname/workout-stats`)
+   - `DASHBOARD_REPO`: your fork slug (example: `yourname/git-sweaty`)
    - `DASHBOARD_DISTANCE_UNIT`: `mi` or `km`
    - `DASHBOARD_ELEVATION_UNIT`: `ft` or `m`
    - `DASHBOARD_WEEK_START`: `sunday` or `monday`
