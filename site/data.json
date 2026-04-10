@@ -4211,6 +4211,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18027937134",
       "year": 2026
+    },
+    {
+      "date": "2026-04-09",
+      "hour": 12,
+      "name": "Lunch Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18045921975",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-10",
+      "hour": 6,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18054851335",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -6417,6 +6435,15 @@
           "distance": 11607.5,
           "elevation_gain": 0.0,
           "moving_time": 3907.0
+        },
+        "2026-04-10": {
+          "activity_ids": [
+            "18054851335"
+          ],
+          "count": 1,
+          "distance": 19334.7,
+          "elevation_gain": 0.0,
+          "moving_time": 6549.0
         }
       },
       "Walk": {
@@ -7083,6 +7110,15 @@
           "distance": 2597.3,
           "elevation_gain": 10.0,
           "moving_time": 1822.0
+        },
+        "2026-04-09": {
+          "activity_ids": [
+            "18045921975"
+          ],
+          "count": 1,
+          "distance": 2520.1,
+          "elevation_gain": 7.2,
+          "moving_time": 1719.0
         }
       },
       "WeightTraining": {
@@ -7667,7 +7703,7 @@
       }
     }
   },
-  "generated_at": "2026-04-09T16:20:59.787203+00:00",
+  "generated_at": "2026-04-10T15:58:15.546540+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/155607448",
   "repo": "krishnaindani/git-sweaty",
