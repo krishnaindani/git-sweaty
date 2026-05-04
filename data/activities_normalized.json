@@ -6433,5 +6433,18 @@
     "start_date_local": "2026-05-02T09:08:05Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-05-03",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18366912976",
+    "moving_time": 903.0,
+    "name": "Evening workout",
+    "raw_activity_type": "Workout",
+    "raw_type": "PhysicalTherapy",
+    "start_date_local": "2026-05-03T18:30:40Z",
+    "type": "PhysicalTherapy",
+    "year": 2026
   }
 ]
