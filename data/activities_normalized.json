@@ -6472,5 +6472,57 @@
     "start_date_local": "2026-05-05T07:04:23Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-05-06",
+    "distance": 1024.1,
+    "elevation_gain": 0.0,
+    "id": "18420667964",
+    "moving_time": 833.0,
+    "name": "Morning Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-06T06:02:19Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-07",
+    "distance": 1241.2,
+    "elevation_gain": 30.0,
+    "id": "18416632399",
+    "moving_time": 2247.0,
+    "name": "Morning Hike",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-05-07T08:20:19Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-07",
+    "distance": 2321.7,
+    "elevation_gain": 135.2,
+    "id": "18420668058",
+    "moving_time": 2577.0,
+    "name": "Afternoon Hike",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-05-07T13:12:11Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-07",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18420668070",
+    "moving_time": 1408.0,
+    "name": "Afternoon Workout",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-05-07T17:33:21Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]

@@ -4481,6 +4481,42 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/18386357164",
       "year": 2026
+    },
+    {
+      "date": "2026-05-06",
+      "hour": 6,
+      "name": "Morning Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18420667964",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-07",
+      "hour": 8,
+      "name": "Morning Hike",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/18416632399",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-07",
+      "hour": 13,
+      "name": "Afternoon Hike",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/18420668058",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-07",
+      "hour": 17,
+      "name": "Afternoon Workout",
+      "subtype": "Workout",
+      "type": "Workout",
+      "url": "https://www.strava.com/activities/18420668070",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -6138,6 +6174,18 @@
       }
     },
     "2026": {
+      "Hike": {
+        "2026-05-07": {
+          "activity_ids": [
+            "18416632399",
+            "18420668058"
+          ],
+          "count": 2,
+          "distance": 3562.8999999999996,
+          "elevation_gain": 165.2,
+          "moving_time": 4824.0
+        }
+      },
       "PhysicalTherapy": {
         "2026-05-03": {
           "activity_ids": [
@@ -7518,6 +7566,15 @@
           "distance": 90.4,
           "elevation_gain": 0.0,
           "moving_time": 76.0
+        },
+        "2026-05-06": {
+          "activity_ids": [
+            "18420667964"
+          ],
+          "count": 1,
+          "distance": 1024.1,
+          "elevation_gain": 0.0,
+          "moving_time": 833.0
         }
       },
       "WeightTraining": {
@@ -8197,11 +8254,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 846.0
+        },
+        "2026-05-07": {
+          "activity_ids": [
+            "18420668070"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1408.0
         }
       }
     }
   },
-  "generated_at": "2026-05-07T16:54:23.220044+00:00",
+  "generated_at": "2026-05-08T16:16:42.364060+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/155607448",
   "repo": "krishnaindani/git-sweaty",
