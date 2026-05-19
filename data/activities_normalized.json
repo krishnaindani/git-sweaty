@@ -6693,5 +6693,31 @@
     "start_date_local": "2026-05-17T09:55:54Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-18",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18561737840",
+    "moving_time": 948.0,
+    "name": "Afternoon Physical Therapy",
+    "raw_activity_type": "Workout",
+    "raw_type": "PhysicalTherapy",
+    "start_date_local": "2026-05-18T16:51:58Z",
+    "type": "PhysicalTherapy",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-19",
+    "distance": 13117.1,
+    "elevation_gain": 54.8,
+    "id": "18569916701",
+    "moving_time": 5080.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-19T07:39:25Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
