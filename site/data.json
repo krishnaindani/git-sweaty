@@ -4715,6 +4715,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18637419786",
       "year": 2026
+    },
+    {
+      "date": "2026-05-25",
+      "hour": 7,
+      "name": "Morning Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18650085538",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-25",
+      "hour": 8,
+      "name": "Morning Elliptical",
+      "subtype": "Elliptical",
+      "type": "Elliptical",
+      "url": "https://www.strava.com/activities/18650085640",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -6372,6 +6390,17 @@
       }
     },
     "2026": {
+      "Elliptical": {
+        "2026-05-25": {
+          "activity_ids": [
+            "18650085640"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2003.0
+        }
+      },
       "Hike": {
         "2026-05-07": {
           "activity_ids": [
@@ -8572,6 +8601,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3131.0
+        },
+        "2026-05-25": {
+          "activity_ids": [
+            "18650085538"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3478.0
         }
       },
       "Workout": {
@@ -8659,13 +8697,17 @@
       }
     }
   },
-  "generated_at": "2026-05-24T16:03:42.228477+00:00",
+  "generated_at": "2026-05-25T17:09:28.251727+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/155607448",
   "repo": "krishnaindani/git-sweaty",
   "source": "strava",
   "strava_profile_url": "https://www.strava.com/athletes/155607448",
   "type_meta": {
+    "Elliptical": {
+      "accent": "#fb5607",
+      "label": "Elliptical"
+    },
     "Hike": {
       "accent": "#d6ff6b",
       "label": "Hike"
@@ -8708,6 +8750,7 @@
     }
   },
   "types": [
+    "Elliptical",
     "Hike",
     "Ride",
     "Rowing",
