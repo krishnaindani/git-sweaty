@@ -6862,5 +6862,18 @@
     "start_date_local": "2026-05-26T06:49:01Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-27",
+    "distance": 8172.1,
+    "elevation_gain": 35.3,
+    "id": "18675957583",
+    "moving_time": 3502.0,
+    "name": "1km Repeats",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-27T06:45:48Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
