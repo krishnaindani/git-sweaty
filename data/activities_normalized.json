@@ -6966,5 +6966,18 @@
     "start_date_local": "2026-06-01T12:29:01Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-06-02",
+    "distance": 10208.3,
+    "elevation_gain": 62.4,
+    "id": "18757221988",
+    "moving_time": 4229.0,
+    "name": "Rolling 800s",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-02T07:14:27Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
