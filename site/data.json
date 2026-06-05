@@ -4850,6 +4850,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/18784833824",
       "year": 2026
+    },
+    {
+      "date": "2026-06-05",
+      "hour": 6,
+      "name": "11mi Progressive Long Run with Runna \u2705",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18799280954",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -7354,6 +7363,15 @@
           "distance": 10178.7,
           "elevation_gain": 83.4,
           "moving_time": 4501.0
+        },
+        "2026-06-05": {
+          "activity_ids": [
+            "18799280954"
+          ],
+          "count": 1,
+          "distance": 17967.1,
+          "elevation_gain": 69.7,
+          "moving_time": 7581.0
         }
       },
       "Swim": {
@@ -8931,7 +8949,7 @@
       }
     }
   },
-  "generated_at": "2026-06-04T17:47:08.853147+00:00",
+  "generated_at": "2026-06-05T17:21:33.464825+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/155607448",
   "repo": "krishnaindani/git-sweaty",

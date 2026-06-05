@@ -7005,5 +7005,18 @@
     "start_date_local": "2026-06-04T06:52:30Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-06-05",
+    "distance": 17967.1,
+    "elevation_gain": 69.7,
+    "id": "18799280954",
+    "moving_time": 7581.0,
+    "name": "11mi Progressive Long Run with Runna \u2705",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-05T06:35:43Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
