@@ -4886,6 +4886,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18851932037",
       "year": 2026
+    },
+    {
+      "date": "2026-06-10",
+      "hour": 6,
+      "name": "6.5mi Easy Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18866060057",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -7417,6 +7426,15 @@
           "distance": 10048.2,
           "elevation_gain": 108.0,
           "moving_time": 4687.0
+        },
+        "2026-06-10": {
+          "activity_ids": [
+            "18866060057"
+          ],
+          "count": 1,
+          "distance": 10792.9,
+          "elevation_gain": 36.6,
+          "moving_time": 4625.0
         }
       },
       "Swim": {
@@ -9003,7 +9021,7 @@
       }
     }
   },
-  "generated_at": "2026-06-09T17:26:13.526596+00:00",
+  "generated_at": "2026-06-10T18:07:17.441175+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/155607448",
   "repo": "krishnaindani/git-sweaty",

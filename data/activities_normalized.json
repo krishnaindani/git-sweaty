@@ -7057,5 +7057,18 @@
     "start_date_local": "2026-06-09T07:08:22Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-10",
+    "distance": 10792.9,
+    "elevation_gain": 36.6,
+    "id": "18866060057",
+    "moving_time": 4625.0,
+    "name": "6.5mi Easy Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-10T06:52:27Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
