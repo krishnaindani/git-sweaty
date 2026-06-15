@@ -7109,5 +7109,31 @@
     "start_date_local": "2026-06-13T07:20:47Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-06-14",
+    "distance": 10144.8,
+    "elevation_gain": 50.8,
+    "id": "18919960660",
+    "moving_time": 4250.0,
+    "name": "Rolling 400s",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-14T08:24:08Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-15",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18931746684",
+    "moving_time": 3016.0,
+    "name": "Morning Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-15T06:53:25Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
