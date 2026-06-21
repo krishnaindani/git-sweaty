@@ -7200,5 +7200,31 @@
     "start_date_local": "2026-06-20T07:07:12Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-06-21",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19012703834",
+    "moving_time": 729.0,
+    "name": "Morning Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-06-21T09:11:36Z",
+    "type": "Yoga",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-21",
+    "distance": 10103.8,
+    "elevation_gain": 40.4,
+    "id": "19012714339",
+    "moving_time": 4324.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-21T07:55:51Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

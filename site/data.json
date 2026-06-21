@@ -4985,6 +4985,24 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/18999111494",
       "year": 2026
+    },
+    {
+      "date": "2026-06-21",
+      "hour": 9,
+      "name": "Morning Yoga",
+      "subtype": "Yoga",
+      "type": "Yoga",
+      "url": "https://www.strava.com/activities/19012703834",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-21",
+      "hour": 7,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19012714339",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -7570,6 +7588,15 @@
           "distance": 11450.3,
           "elevation_gain": 50.0,
           "moving_time": 5005.0
+        },
+        "2026-06-21": {
+          "activity_ids": [
+            "19012714339"
+          ],
+          "count": 1,
+          "distance": 10103.8,
+          "elevation_gain": 40.4,
+          "moving_time": 4324.0
         }
       },
       "Swim": {
@@ -9198,10 +9225,21 @@
           "elevation_gain": 0.0,
           "moving_time": 1408.0
         }
+      },
+      "Yoga": {
+        "2026-06-21": {
+          "activity_ids": [
+            "19012703834"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 729.0
+        }
       }
     }
   },
-  "generated_at": "2026-06-20T16:22:26.582410+00:00",
+  "generated_at": "2026-06-21T16:47:07.949664+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/155607448",
   "repo": "krishnaindani/git-sweaty",
@@ -9251,6 +9289,10 @@
     "Workout": {
       "accent": "#ff8a5b",
       "label": "Other Workout"
+    },
+    "Yoga": {
+      "accent": "#f15bb5",
+      "label": "Yoga"
     }
   },
   "types": [
@@ -9264,6 +9306,7 @@
     "Walk",
     "WeightTraining",
     "Workout",
+    "Yoga",
     "PhysicalTherapy"
   ],
   "units": {
