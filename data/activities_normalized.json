@@ -7356,5 +7356,18 @@
     "start_date_local": "2026-07-02T06:39:51Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-07-03",
+    "distance": 21234.4,
+    "elevation_gain": 122.6,
+    "id": "19165246144",
+    "moving_time": 8871.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-03T06:34:59Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
