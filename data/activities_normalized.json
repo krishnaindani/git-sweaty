@@ -7408,5 +7408,31 @@
     "start_date_local": "2026-07-06T08:09:04Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-07-06",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19209150388",
+    "moving_time": 73.0,
+    "name": "Cooldown",
+    "raw_activity_type": "Workout",
+    "raw_type": "PhysicalTherapy",
+    "start_date_local": "2026-07-06T20:20:14Z",
+    "type": "PhysicalTherapy",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-07",
+    "distance": 7529.0,
+    "elevation_gain": 0.0,
+    "id": "19215371148",
+    "moving_time": 3000.0,
+    "name": "Tempo 2.5mi",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-07T06:30:49Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
