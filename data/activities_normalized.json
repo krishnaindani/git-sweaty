@@ -7473,5 +7473,31 @@
     "start_date_local": "2026-07-08T06:46:34Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-09",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19250876025",
+    "moving_time": 528.0,
+    "name": "Cooldown",
+    "raw_activity_type": "Workout",
+    "raw_type": "PhysicalTherapy",
+    "start_date_local": "2026-07-09T19:52:19Z",
+    "type": "PhysicalTherapy",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-10",
+    "distance": 11837.6,
+    "elevation_gain": 44.8,
+    "id": "19257478045",
+    "moving_time": 4945.0,
+    "name": "7mi Long Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-10T07:09:09Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

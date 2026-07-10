@@ -5174,6 +5174,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19229649681",
       "year": 2026
+    },
+    {
+      "date": "2026-07-09",
+      "hour": 19,
+      "name": "Cooldown",
+      "subtype": "PhysicalTherapy",
+      "type": "PhysicalTherapy",
+      "url": "https://www.strava.com/activities/19250876025",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-10",
+      "hour": 7,
+      "name": "7mi Long Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19257478045",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -6890,6 +6908,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 73.0
+        },
+        "2026-07-09": {
+          "activity_ids": [
+            "19250876025"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 528.0
         }
       },
       "Rowing": {
@@ -7867,6 +7894,15 @@
           "distance": 7265.3,
           "elevation_gain": 2.0,
           "moving_time": 3025.0
+        },
+        "2026-07-10": {
+          "activity_ids": [
+            "19257478045"
+          ],
+          "count": 1,
+          "distance": 11837.6,
+          "elevation_gain": 44.8,
+          "moving_time": 4945.0
         }
       },
       "Swim": {
@@ -9573,7 +9609,7 @@
       }
     }
   },
-  "generated_at": "2026-07-09T17:23:21.624764+00:00",
+  "generated_at": "2026-07-10T16:58:34.158820+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/155607448",
   "repo": "krishnaindani/git-sweaty",
