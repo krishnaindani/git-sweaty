@@ -7525,5 +7525,31 @@
     "start_date_local": "2026-07-12T08:16:20Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-13",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19302270897",
+    "moving_time": 2710.0,
+    "name": "Afternoon Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-07-13T14:47:56Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-14",
+    "distance": 8494.0,
+    "elevation_gain": 45.5,
+    "id": "19310629479",
+    "moving_time": 3380.0,
+    "name": "Tempo 1200s",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-14T07:14:07Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
