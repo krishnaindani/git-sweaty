@@ -7603,5 +7603,31 @@
     "start_date_local": "2026-07-19T07:53:08Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-20",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19397516864",
+    "moving_time": 3153.0,
+    "name": "Afternoon Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-07-20T14:09:04Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-21",
+    "distance": 7261.0,
+    "elevation_gain": 40.4,
+    "id": "19404374356",
+    "moving_time": 3063.0,
+    "name": "Taper Fartlek",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-21T07:05:32Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
