@@ -7681,5 +7681,44 @@
     "start_date_local": "2026-07-24T06:58:59Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-26",
+    "distance": 21104.6,
+    "elevation_gain": 161.9,
+    "id": "19477194563",
+    "moving_time": 7973.0,
+    "name": "San Francisco 2nd Half Marathon",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-26T08:38:05Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-26",
+    "distance": 1691.5,
+    "elevation_gain": 76.8,
+    "id": "19477195637",
+    "moving_time": 1256.0,
+    "name": "Lunch Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-07-26T11:10:25Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-26",
+    "distance": 1442.6,
+    "elevation_gain": 33.8,
+    "id": "19479837403",
+    "moving_time": 1037.0,
+    "name": "Afternoon Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-07-26T16:27:58Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]

@@ -5318,6 +5318,33 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19446537422",
       "year": 2026
+    },
+    {
+      "date": "2026-07-26",
+      "hour": 8,
+      "name": "San Francisco 2nd Half Marathon",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19477194563",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-26",
+      "hour": 11,
+      "name": "Lunch Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/19477195637",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-26",
+      "hour": 16,
+      "name": "Afternoon Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/19479837403",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -8101,6 +8128,15 @@
           "distance": 6602.4,
           "elevation_gain": 27.4,
           "moving_time": 2775.0
+        },
+        "2026-07-26": {
+          "activity_ids": [
+            "19477194563"
+          ],
+          "count": 1,
+          "distance": 21104.6,
+          "elevation_gain": 161.9,
+          "moving_time": 7973.0
         }
       },
       "Swim": {
@@ -8942,6 +8978,16 @@
           "distance": 3166.3,
           "elevation_gain": 19.4,
           "moving_time": 2279.0
+        },
+        "2026-07-26": {
+          "activity_ids": [
+            "19477195637",
+            "19479837403"
+          ],
+          "count": 2,
+          "distance": 3134.1,
+          "elevation_gain": 110.6,
+          "moving_time": 2293.0
         }
       },
       "WeightTraining": {
@@ -9861,7 +9907,7 @@
       }
     }
   },
-  "generated_at": "2026-07-26T16:03:51.742230+00:00",
+  "generated_at": "2026-07-27T17:00:27.121927+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/155607448",
   "repo": "krishnaindani/git-sweaty",
