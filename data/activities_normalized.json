@@ -7863,5 +7863,44 @@
     "start_date_local": "2026-08-05T06:55:08Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-05",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19620500391",
+    "moving_time": 2724.0,
+    "name": "Afternoon Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-08-05T14:23:21Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-06",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19635121597",
+    "moving_time": 612.0,
+    "name": "Cooldown",
+    "raw_activity_type": "Workout",
+    "raw_type": "PhysicalTherapy",
+    "start_date_local": "2026-08-06T18:52:51Z",
+    "type": "PhysicalTherapy",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-07",
+    "distance": 18131.4,
+    "elevation_gain": 87.4,
+    "id": "19642552150",
+    "moving_time": 7340.0,
+    "name": "11mi Progressive Long Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-07T06:42:19Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
