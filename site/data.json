@@ -5480,6 +5480,24 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/19657400666",
       "year": 2026
+    },
+    {
+      "date": "2026-08-09",
+      "hour": 8,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19671086909",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-10",
+      "hour": 7,
+      "name": "Fast 8-4-2s",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19682697403",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -8344,6 +8362,24 @@
           "distance": 18131.4,
           "elevation_gain": 87.4,
           "moving_time": 7340.0
+        },
+        "2026-08-09": {
+          "activity_ids": [
+            "19671086909"
+          ],
+          "count": 1,
+          "distance": 10118.5,
+          "elevation_gain": 40.6,
+          "moving_time": 4248.0
+        },
+        "2026-08-10": {
+          "activity_ids": [
+            "19682697403"
+          ],
+          "count": 1,
+          "distance": 11775.3,
+          "elevation_gain": 52.0,
+          "moving_time": 4518.0
         }
       },
       "Swim": {
@@ -10177,7 +10213,7 @@
       }
     }
   },
-  "generated_at": "2026-08-09T15:34:37.610230+00:00",
+  "generated_at": "2026-08-10T16:01:33.473631+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/155607448",
   "repo": "krishnaindani/git-sweaty",
