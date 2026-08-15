@@ -7980,5 +7980,18 @@
     "start_date_local": "2026-08-13T18:06:52Z",
     "type": "PhysicalTherapy",
     "year": 2026
+  },
+  {
+    "date": "2026-08-14",
+    "distance": 21127.4,
+    "elevation_gain": 105.8,
+    "id": "19740952618",
+    "moving_time": 8751.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-14T06:22:49Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
