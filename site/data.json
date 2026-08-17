@@ -5543,6 +5543,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/19757819947",
       "year": 2026
+    },
+    {
+      "date": "2026-08-16",
+      "hour": 8,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19769247443",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -8461,6 +8470,15 @@
           "distance": 21127.4,
           "elevation_gain": 105.8,
           "moving_time": 8751.0
+        },
+        "2026-08-16": {
+          "activity_ids": [
+            "19769247443"
+          ],
+          "count": 1,
+          "distance": 8119.5,
+          "elevation_gain": 31.8,
+          "moving_time": 3473.0
         }
       },
       "Swim": {
@@ -10303,7 +10321,7 @@
       }
     }
   },
-  "generated_at": "2026-08-16T15:24:56.378231+00:00",
+  "generated_at": "2026-08-17T15:27:36.215892+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/155607448",
   "repo": "krishnaindani/git-sweaty",
