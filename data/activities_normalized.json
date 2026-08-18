@@ -8019,5 +8019,31 @@
     "start_date_local": "2026-08-16T08:14:50Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-17",
+    "distance": 9997.8,
+    "elevation_gain": 44.2,
+    "id": "19781093909",
+    "moving_time": 4222.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-17T07:29:22Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-18",
+    "distance": 8277.1,
+    "elevation_gain": 43.0,
+    "id": "19795262358",
+    "moving_time": 3076.0,
+    "name": "Steady into Tempo",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-18T07:12:34Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
