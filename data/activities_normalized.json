@@ -8201,5 +8201,31 @@
     "start_date_local": "2026-08-29T06:40:41Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-30",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19970518124",
+    "moving_time": 642.0,
+    "name": "Cooldown",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-08-30T15:00:12Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-31",
+    "distance": 10487.6,
+    "elevation_gain": 47.0,
+    "id": "19977813267",
+    "moving_time": 4789.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-31T07:39:49Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
