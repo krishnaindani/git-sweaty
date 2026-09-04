@@ -8253,5 +8253,18 @@
     "start_date_local": "2026-09-02T16:40:10Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-09-03",
+    "distance": 4930.4,
+    "elevation_gain": 283.2,
+    "id": "20025760679",
+    "moving_time": 5649.0,
+    "name": "Skyline Trail",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-09-03T11:27:30Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]

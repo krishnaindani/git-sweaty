@@ -5714,6 +5714,15 @@
       "type": "Hike",
       "url": "https://www.strava.com/activities/20013167175",
       "year": 2026
+    },
+    {
+      "date": "2026-09-03",
+      "hour": 11,
+      "name": "Skyline Trail",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/20025760679",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -7428,6 +7437,15 @@
           "distance": 990.2,
           "elevation_gain": 20.0,
           "moving_time": 951.0
+        },
+        "2026-09-03": {
+          "activity_ids": [
+            "20025760679"
+          ],
+          "count": 1,
+          "distance": 4930.4,
+          "elevation_gain": 283.2,
+          "moving_time": 5649.0
         }
       },
       "PhysicalTherapy": {
@@ -10637,7 +10655,7 @@
       }
     }
   },
-  "generated_at": "2026-09-03T18:24:45.569143+00:00",
+  "generated_at": "2026-09-04T18:11:55.952454+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/155607448",
   "repo": "krishnaindani/git-sweaty",
