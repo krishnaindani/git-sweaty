@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T17:33:49.930614+00:00",
+  "generated_at": "2026-09-07T19:02:32.768118+00:00",
   "years": {
     "2024": {
       "Walk": {
@@ -1691,6 +1691,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1466.0
+        },
+        "2026-09-07": {
+          "activity_ids": [
+            "20077664666"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1926.0
         }
       },
       "Hike": {
@@ -3044,6 +3053,17 @@
           "moving_time": 4789.0
         }
       },
+      "StairStepper": {
+        "2026-09-07": {
+          "activity_ids": [
+            "20077057564"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 82.0
+        }
+      },
       "Swim": {
         "2026-05-09": {
           "activity_ids": [
@@ -3930,6 +3950,15 @@
           "distance": 1076.8,
           "elevation_gain": 15.4,
           "moving_time": 866.0
+        },
+        "2026-09-06": {
+          "activity_ids": [
+            "20067056427"
+          ],
+          "count": 1,
+          "distance": 842.7,
+          "elevation_gain": 23.4,
+          "moving_time": 813.0
         }
       },
       "WeightTraining": {
@@ -4823,6 +4852,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 998.0
+        },
+        "2026-09-07": {
+          "activity_ids": [
+            "20077038704"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3058.0
         }
       },
       "Workout": {
