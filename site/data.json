@@ -5930,6 +5930,33 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20282784472",
       "year": 2026
+    },
+    {
+      "date": "2026-09-22",
+      "hour": 13,
+      "name": "Afternoon Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/20319148422",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-24",
+      "hour": 8,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20319148443",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-25",
+      "hour": 7,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20325301337",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -9064,6 +9091,24 @@
           "distance": 6630.1,
           "elevation_gain": 45.8,
           "moving_time": 2875.0
+        },
+        "2026-09-24": {
+          "activity_ids": [
+            "20319148443"
+          ],
+          "count": 1,
+          "distance": 8075.7,
+          "elevation_gain": 63.6,
+          "moving_time": 3373.0
+        },
+        "2026-09-25": {
+          "activity_ids": [
+            "20325301337"
+          ],
+          "count": 1,
+          "distance": 7669.5,
+          "elevation_gain": 53.8,
+          "moving_time": 3253.0
         }
       },
       "StairStepper": {
@@ -10913,6 +10958,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2859.0
+        },
+        "2026-09-22": {
+          "activity_ids": [
+            "20319148422"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 191.0
         }
       },
       "Workout": {
@@ -11047,7 +11101,7 @@
       }
     }
   },
-  "generated_at": "2026-09-24T18:52:52.103162+00:00",
+  "generated_at": "2026-09-25T19:10:26.571321+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/155607448",
   "repo": "krishnaindani/git-sweaty",
