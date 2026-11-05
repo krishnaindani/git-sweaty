@@ -6272,6 +6272,15 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/20858595448",
       "year": 2026
+    },
+    {
+      "date": "2026-11-04",
+      "hour": 20,
+      "name": "Evening Physical Therapy",
+      "subtype": "PhysicalTherapy",
+      "type": "PhysicalTherapy",
+      "url": "https://www.strava.com/activities/20870127885",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -8096,6 +8105,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 910.0
+        },
+        "2026-11-04": {
+          "activity_ids": [
+            "20870127885"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 289.0
         }
       },
       "Rowing": {
@@ -11715,7 +11733,7 @@
       }
     }
   },
-  "generated_at": "2026-11-04T21:06:07.300454+00:00",
+  "generated_at": "2026-11-05T21:23:13.957878+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/155607448",
   "repo": "krishnaindani/git-sweaty",
