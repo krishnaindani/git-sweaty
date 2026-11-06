@@ -6281,6 +6281,15 @@
       "type": "PhysicalTherapy",
       "url": "https://www.strava.com/activities/20870127885",
       "year": 2026
+    },
+    {
+      "date": "2026-11-05",
+      "hour": 15,
+      "name": "Afternoon Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/20878996172",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10562,6 +10571,15 @@
           "distance": 4416.3,
           "elevation_gain": 31.6,
           "moving_time": 3429.0
+        },
+        "2026-11-05": {
+          "activity_ids": [
+            "20878996172"
+          ],
+          "count": 1,
+          "distance": 2744.9,
+          "elevation_gain": 63.8,
+          "moving_time": 2171.0
         }
       },
       "WeightTraining": {
@@ -11733,7 +11751,7 @@
       }
     }
   },
-  "generated_at": "2026-11-05T21:23:13.957878+00:00",
+  "generated_at": "2026-11-06T20:44:21.635255+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/155607448",
   "repo": "krishnaindani/git-sweaty",
